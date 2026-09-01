@@ -27,3 +27,11 @@ Role        : Computer Science & Engineering Student
 Location    : Hyderabad, India
 Focus       : Software Development & Problem Solving
 Currently   : Building • Learning • Improving
+[████████████████░░░░] BUILDING MY DEVELOPER JOURNEY
+
+→ Data Structures & Algorithms
+→ Computer Science Fundamentals
+→ Web Development
+→ AI / Machine Learning
+→ Real-world Projects
+→ Software Engineering Preparation
