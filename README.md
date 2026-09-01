@@ -19,7 +19,7 @@ Computer Science & Engineering Student • Developer • Problem Solver
 
 ---
 
-## `> whoami`
+## `> WHO AM I?`
 
 ```text
 Name        : Mittapally Sai Vivek
