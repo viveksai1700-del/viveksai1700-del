@@ -35,3 +35,5 @@ Currently   : Building • Learning • Improving
 → AI / Machine Learning
 → Real-world Projects
 → Software Engineering Preparation
+> tech_stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,vercel" /> </p>
