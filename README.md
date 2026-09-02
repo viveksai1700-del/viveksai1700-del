@@ -205,7 +205,7 @@ Application focused on measuring and displaying internet performance through a s
 
 ---
 
-## `~/roadmap`
+## `~/road map`
 
 <table align="center">
 <tr>
